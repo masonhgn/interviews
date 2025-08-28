@@ -56,7 +56,7 @@ My recruiter told me that on the computer, a coding problem would pop up at 9:45
 
 
 ## Live Coding
-The live coding portion was on CodeSignal in front of Dale and Prathun. The problem was:
+The live coding portion was on CodeSignal in front of D and P. The problem was:
 
 - Given a set of companies which have long names and tickers, implement functions to parse through news headlines and output the tickers of the companies whose long names are mentioned.
 
@@ -88,7 +88,7 @@ This problem looked very easy to me at first but I realized that the edge case o
 I tokenized each headline, created hash maps for easy lookups of long company names, and did an n² traversal to check for every possible contiguous array of tokens. I received confirmation from the interviewers that this solution was correct, but not optimal.
 
 - **Optimized solution (incomplete):**
-I initially approached this optimization incorrectly, but a solution was a trie based approach. When the interviewer explained the trie-based approach, I followed along and stepped through a specific test case, explaining my thought process and what I understood versus what I did not. I communicated my reasoning openly. Dale was transparent that they do not expect candidates to automatically know the trie solution, and emphasized that they wanted to see my thought process and communication.
+I initially approached this optimization incorrectly, but a solution was a trie based approach. When the interviewer explained the trie-based approach, I followed along and stepped through a specific test case, explaining my thought process and what I understood versus what I did not. I communicated my reasoning openly. D was transparent that they do not expect candidates to automatically know the trie solution, and emphasized that they wanted to see my thought process and communication.
 
 
 ## System Design
